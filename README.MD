@@ -5,7 +5,8 @@
 (use debounce logic and polling on a timer, not enough interrupts)
 
 ##Rotary encoders
-https://www.sparkfun.com/products/10982
+[Illuminated RGB Quadrature](https://www.sparkfun.com/products/10982)
+
 
 todo: Fork from Mercurial into git - for now use [QEI](https://os.mbed.com/cookbook/QEI)
 
@@ -18,3 +19,5 @@ mbed add http://os.mbed.com/users/aberk/code/QEI/
 image:
 
 ![RED-on-Black](img/16x2-lcd-red-on-black.jpg)
+[Serial LCD Commands](https://learn.sparkfun.com/tutorials/pic-based-serial-enabled-character-lcd-hookup-guide?_ga=2.160322362.623820446.1547752109-968112087.1538925376#firmware-overview)
+
