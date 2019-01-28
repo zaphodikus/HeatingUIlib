@@ -1,5 +1,7 @@
-# Prerequisites
-*.d
+log/
+.build/
+BUILD/
+.mbed
 
 # Compiled Object files
 *.slo
@@ -19,3 +21,7 @@
 *.app
 *.bin
 *.hex
+
+# PyCharm
+*.idea
+main.bak
